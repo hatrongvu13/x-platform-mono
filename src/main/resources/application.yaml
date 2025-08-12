@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /x-mono
+  port: 8080
+spring:
+  application:
+    name: x-platform-mono
+  liquibase:
+    enabled: true
